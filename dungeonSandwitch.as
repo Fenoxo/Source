@@ -2752,7 +2752,7 @@ function loseToSandMotherBadEnd():void {
 	if(player.HP < 1) outputText("battered body aloft, but your wounds are too great, robbing you of strength.");
 	else outputText("rebellious body aloft, but your lust is too great, turning your body into a quivering wreck.");
 	outputText("  You ");
-	if(player.HP < 1) outputText("spitefully watch the Sand Mother approach, only able to admire her sculpted form as she towars over your prone form.");
+	if(player.HP < 1) outputText("spitefully watch the Sand Mother approach, only able to admire her sculpted form as she towers over your prone form.");
 	else outputText("hungrily watch the Sand Mother approach, only able to touch yourself as you gaze up at her sculpted form");
 	outputText(".  She sniffs in disdain as she looks down at you.  \"<i>Disappointing.  Lethice sends a weakling like you after us, and the sisters do not even slow you.  Their atonement shall be severe.</i>\"  Her eyes, blue as the desert sky, consider you again, and she mutters, \"<i>First, there is the matter of you, isn't there?</i>\"");
 	
